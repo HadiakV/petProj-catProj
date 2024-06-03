@@ -1,1 +1,1 @@
-# petsProj-catProj
+# petProj-catProj
